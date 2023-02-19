@@ -1,4 +1,3 @@
 # Blockbuster_BackendSystem
-看到需求,所以用物件導向方式隨手寫寫
-主要是練習物件導向的方式寫Code
-期許自己變得更有系統維運思維
+
+Upon seeing the requirement, I wrote some code in an object-oriented manner as a practice to improve my systematic maintenance thinking.
